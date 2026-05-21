@@ -2,7 +2,7 @@
 
 # Engine
 - Toyota class: 1ND-TV
-- Specific model: AJ10
+- Specific model: AJ10 AJ1 _J1_
 
 # Generator / Dynamo
 Note all "real" Toyotas appear to have the same or similar generator / dynamo, while brackets are off the Richter's scale, hence the specific engine model is important AJ10, not just 1ND-TV as this one has at least 3 different housings / brackets.
