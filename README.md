@@ -1,5 +1,4 @@
-# Toyota-IQ-D4D-1400-diesel-90-bhp
-Toyota IQ D4D 1400 diesel 90 bhp maintenance and tidbits.
+# Toyota IQ D4D 1400 diesel 90 bhp maintenance and tidbits.
 
 # Engine
 - Toyota class: 1ND-TV
