@@ -10,6 +10,8 @@ Note all "real" Toyotas appear to have the same or similar generator / dynamo, w
 - Toyota: 27060-33090
 - Denso: 104210-2440
 
+Google: "27060-33090 aj10" gives this: https://www.autodoc.co.no/rotovis-automotive-electrics/25375658 in which appears to look OK from pictures alone, not yet tested as unavaiable.
+
 ## Belt wheel
 engraved on the wheel
 - 369V
